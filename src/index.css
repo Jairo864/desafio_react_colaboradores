@@ -1,0 +1,25 @@
+#root {
+    padding: 30px;
+}
+
+h3 {
+  text-align: center;
+}
+
+.estiloBoton{
+  margin-bottom: 20px;
+  background-color: rgb(36, 12, 172) !important;
+  border-color: rgb(36, 12, 172) !important;
+  width: 100%;
+  } 
+
+.buscadorStyle{
+ width: 50% !important;
+  } 
+
+.cuadroAlerta{
+  width: auto;
+  height: 10px;
+  text-align: center;
+}
+
